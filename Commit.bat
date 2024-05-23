@@ -10,7 +10,7 @@
     set "hour=%time:~0,2%"
     set "minute=%time:~3,2%"
     set "second=%time:~6,2%"
-    set "datestamp=%year%-%month%-%day%-%hour%-%minute%-%second%"
+    set "datestamp=%day%-%month%-%year%"
 
 
     git add .

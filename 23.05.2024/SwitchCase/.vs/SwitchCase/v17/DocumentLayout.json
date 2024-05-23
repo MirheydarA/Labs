@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\SwitchCase\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\labs\\23.05.2024\\SwitchCase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A32ECA77-2D68-4590-A2E9-AFB969E325F4}|SwitchCase.csproj|c:\\users\\asus\\desktop\\projects\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A32ECA77-2D68-4590-A2E9-AFB969E325F4}|SwitchCase.csproj|c:\\users\\asus\\desktop\\labs\\23.05.2024\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A32ECA77-2D68-4590-A2E9-AFB969E325F4}|SwitchCase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\SwitchCase\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\labs\\23.05.2024\\SwitchCase\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\SwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\labs\\23.05.2024\\SwitchCase\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBwAAAArAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T09:27:42.252Z",
               "EditorCaption": ""

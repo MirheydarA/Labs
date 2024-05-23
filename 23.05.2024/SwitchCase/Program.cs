@@ -6,9 +6,9 @@
         {
             Console.WriteLine("Enter Season");
 
-            string season = Console.ReadLine();
+            string season = Console.ReadLine().ToLower();
 
-            switch (season.ToLower())
+            switch (season)
             {
                 case "spring":
                     Console.WriteLine("yaz");
@@ -26,7 +26,8 @@
                     Console.WriteLine("Season is not correct");
                     break;
             }
-            var month = Console.ReadLine();
+
+            var month = Console.ReadLine().ToLower();
             string monthAz = month switch
             {
                 "spring" => "yaz",
