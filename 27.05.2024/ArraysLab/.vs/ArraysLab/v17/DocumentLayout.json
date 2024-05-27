@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\labs\\23.05.2024\\SwitchCase\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2004\\ArraysLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A32ECA77-2D68-4590-A2E9-AFB969E325F4}|SwitchCase.csproj|c:\\users\\asus\\desktop\\labs\\23.05.2024\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A32ECA77-2D68-4590-A2E9-AFB969E325F4}|SwitchCase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B2DA77A-C58C-436A-A0D6-BF2FC0928CDA}|ArraysLab.csproj|c:\\users\\asus\\desktop\\labs\\27.05.2004\\arrayslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2DA77A-C58C-436A-A0D6-BF2FC0928CDA}|ArraysLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\labs\\23.05.2024\\SwitchCase\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2004\\ArraysLab\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\labs\\23.05.2024\\SwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2004\\ArraysLab\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T09:27:42.252Z",
+              "WhenOpened": "2024-05-27T08:53:49.321Z",
               "EditorCaption": ""
             }
           ]
