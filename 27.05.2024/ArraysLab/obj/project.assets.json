@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2004\\ArraysLab\\ArraysLab.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2024\\ArraysLab\\ArraysLab.csproj",
       "projectName": "ArraysLab",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2004\\ArraysLab\\ArraysLab.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2024\\ArraysLab\\ArraysLab.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2004\\ArraysLab\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\labs\\27.05.2024\\ArraysLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

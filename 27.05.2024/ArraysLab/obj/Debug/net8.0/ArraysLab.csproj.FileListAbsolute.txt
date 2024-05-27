@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\bin\Debug\net8.0\ArraysLab.exe
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\bin\Debug\net8.0\ArraysLab.deps.json
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\bin\Debug\net8.0\ArraysLab.runtimeconfig.json
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\bin\Debug\net8.0\ArraysLab.dll
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\bin\Debug\net8.0\ArraysLab.pdb
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.sourcelink.json
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.dll
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\refint\ArraysLab.dll
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.pdb
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ArraysLab.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\labs\27.05.2024\ArraysLab\obj\Debug\net8.0\ref\ArraysLab.dll
