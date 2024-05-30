@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraysLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9396c6d75da76eaa2d61777a3938bc946f5fee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c11cf2964e6d8259f28b29a2f2d75a594603397")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraysLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraysLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

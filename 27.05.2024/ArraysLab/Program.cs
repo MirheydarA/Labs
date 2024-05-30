@@ -44,7 +44,7 @@ namespace ArraysLab
         {
             int k = 1;
             int count = 0;
-            int[] array = { 4, 6 };
+            int[] array = { 2 , 3, 4, 6, 15 };
             int[] simpleNumber = { };
             int[] complexNumber = { };
             foreach (var item in array)
@@ -63,13 +63,29 @@ namespace ArraysLab
                 if (count >= 2)
                 {
                     Array.Resize(ref complexNumber, complexNumber.Length + 1);
-                    
+                    complexNumber[complexNumber.Length - 1] = item;
+                }
+
+                else
+                {
+                    Array.Resize(ref simpleNumber, simpleNumber.Length + 1);
+                    simpleNumber[simpleNumber.Length - 1] = item;
                 }
 
 
 
 
+            }
 
+            foreach (var item in complexNumber)
+            {
+                Console.Write($"{item} ");
+            }
+            Console.WriteLine("");
+
+            foreach (var item in simpleNumber)
+            {
+                Console.Write($"{item} ");
             }
 
 
