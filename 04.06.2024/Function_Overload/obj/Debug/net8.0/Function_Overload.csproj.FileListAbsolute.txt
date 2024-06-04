@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\projects\Function_Overload\bin\Debug\net8.0\Function_Overload.exe
+C:\Users\ASUS\Desktop\projects\Function_Overload\bin\Debug\net8.0\Function_Overload.deps.json
+C:\Users\ASUS\Desktop\projects\Function_Overload\bin\Debug\net8.0\Function_Overload.runtimeconfig.json
+C:\Users\ASUS\Desktop\projects\Function_Overload\bin\Debug\net8.0\Function_Overload.dll
+C:\Users\ASUS\Desktop\projects\Function_Overload\bin\Debug\net8.0\Function_Overload.pdb
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.dll
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\refint\Function_Overload.dll
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.pdb
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\Function_Overload.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\projects\Function_Overload\obj\Debug\net8.0\ref\Function_Overload.dll

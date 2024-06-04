@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\labs\\22.05.2024\\IfElse\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\Function_Overload\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC32A200-97D5-4F66-9CD9-75D4E0B287A7}|IfElse.csproj|c:\\users\\asus\\desktop\\labs\\22.05.2024\\ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC32A200-97D5-4F66-9CD9-75D4E0B287A7}|IfElse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443FCB6F-2357-456C-A6C2-F4D143BC2100}|Function_Overload.csproj|c:\\users\\asus\\desktop\\projects\\function_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443FCB6F-2357-456C-A6C2-F4D143BC2100}|Function_Overload.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\labs\\22.05.2024\\IfElse\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\Function_Overload\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\labs\\22.05.2024\\IfElse\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\Function_Overload\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwDAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:52:41.215Z",
+              "WhenOpened": "2024-06-04T08:49:53.281Z",
               "EditorCaption": ""
             }
           ]

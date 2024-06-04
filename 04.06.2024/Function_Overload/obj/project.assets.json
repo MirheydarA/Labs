@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\labs\\22.05.2024\\IfElse\\IfElse.csproj",
-      "projectName": "IfElse",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\labs\\22.05.2024\\IfElse\\IfElse.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\projects\\Function_Overload\\Function_Overload.csproj",
+      "projectName": "Function_Overload",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\projects\\Function_Overload\\Function_Overload.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\labs\\22.05.2024\\IfElse\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\projects\\Function_Overload\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
