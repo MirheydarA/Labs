@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\bin\Debug\net8.0\TaskOOP.exe
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\bin\Debug\net8.0\TaskOOP.deps.json
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\bin\Debug\net8.0\TaskOOP.runtimeconfig.json
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\bin\Debug\net8.0\TaskOOP.dll
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\bin\Debug\net8.0\TaskOOP.pdb
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.dll
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\refint\TaskOOP.dll
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.pdb
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\TaskOOP.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\projects\OOP\TaskOOP\obj\Debug\net8.0\ref\TaskOOP.dll

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7A61-7D7C-4B26-AF5A-5584449884F1}|TaskOOP\\TaskOOP.csproj|c:\\users\\asus\\desktop\\projects\\oop\\taskoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0A7A61-7D7C-4B26-AF5A-5584449884F1}|TaskOOP\\TaskOOP.csproj|solutionrelative:taskoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7A61-7D7C-4B26-AF5A-5584449884F1}|TaskOOP\\TaskOOP.csproj|c:\\users\\asus\\desktop\\projects\\oop\\taskoop\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0A7A61-7D7C-4B26-AF5A-5584449884F1}|TaskOOP\\TaskOOP.csproj|solutionrelative:taskoop\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0A7A61-7D7C-4B26-AF5A-5584449884F1}|TaskOOP\\TaskOOP.csproj|c:\\users\\asus\\desktop\\projects\\oop\\taskoop\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0A7A61-7D7C-4B26-AF5A-5584449884F1}|TaskOOP\\TaskOOP.csproj|solutionrelative:taskoop\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\TaskOOP\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "TaskOOP\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\TaskOOP\\Models\\Book.cs",
+              "RelativeToolTip": "TaskOOP\\Models\\Book.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:49:11.632Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\TaskOOP\\Program.cs",
+              "RelativeDocumentMoniker": "TaskOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\TaskOOP\\Program.cs",
+              "RelativeToolTip": "TaskOOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:24:57.068Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\TaskOOP\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "TaskOOP\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\projects\\OOP\\TaskOOP\\Models\\Library.cs",
+              "RelativeToolTip": "TaskOOP\\Models\\Library.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:29:38.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
