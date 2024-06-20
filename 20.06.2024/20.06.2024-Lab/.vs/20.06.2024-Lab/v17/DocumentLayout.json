@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\labs\\20.06.2024\\20.06.2024-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA3E7A-4DE2-4DAD-8E93-686FE581FB31}|20.06.2024-Lab\\20.06.2024-Lab.csproj|c:\\users\\asus\\desktop\\labs\\20.06.2024\\20.06.2024-lab\\20.06.2024-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA3E7A-4DE2-4DAD-8E93-686FE581FB31}|20.06.2024-Lab\\20.06.2024-Lab.csproj|solutionrelative:20.06.2024-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA3E7A-4DE2-4DAD-8E93-686FE581FB31}|20.06.2024-Lab\\20.06.2024-Lab.csproj|c:\\users\\asus\\desktop\\labs\\20.06.2024\\20.06.2024-lab\\20.06.2024-lab\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA3E7A-4DE2-4DAD-8E93-686FE581FB31}|20.06.2024-Lab\\20.06.2024-Lab.csproj|solutionrelative:20.06.2024-lab\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\labs\\20.06.2024\\20.06.2024-Lab\\20.06.2024-Lab\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "20.06.2024-Lab\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\labs\\20.06.2024\\20.06.2024-Lab\\20.06.2024-Lab\\Models\\Employee.cs",
+              "RelativeToolTip": "20.06.2024-Lab\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:45:25.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\labs\\20.06.2024\\20.06.2024-Lab\\20.06.2024-Lab\\Program.cs",
+              "RelativeDocumentMoniker": "20.06.2024-Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\labs\\20.06.2024\\20.06.2024-Lab\\20.06.2024-Lab\\Program.cs",
+              "RelativeToolTip": "20.06.2024-Lab\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:43:01.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

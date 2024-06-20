@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\bin\Debug\net8.0\20.06.2024-Lab.exe
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\bin\Debug\net8.0\20.06.2024-Lab.deps.json
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\bin\Debug\net8.0\20.06.2024-Lab.runtimeconfig.json
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\bin\Debug\net8.0\20.06.2024-Lab.dll
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\bin\Debug\net8.0\20.06.2024-Lab.pdb
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.dll
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\refint\20.06.2024-Lab.dll
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.pdb
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\20.06.2024-Lab.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\projects\20.06.2024-Lab\20.06.2024-Lab\obj\Debug\net8.0\ref\20.06.2024-Lab.dll
